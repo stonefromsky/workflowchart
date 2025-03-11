@@ -149,7 +149,7 @@
         <mxCell id="nYzu0JgBFqqFMGA5fvKE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="QluS-aAjsIgC2w83DEUZ-6" source="QluS-aAjsIgC2w83DEUZ-30" target="QluS-aAjsIgC2w83DEUZ-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nYzu0JgBFqqFMGA5fvKE-2" value="（打开页面）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nYzu0JgBFqqFMGA5fvKE-1">
+        <mxCell id="nYzu0JgBFqqFMGA5fvKE-2" value="打开或刷新页面时" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nYzu0JgBFqqFMGA5fvKE-1">
           <mxGeometry x="-0.3474" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
