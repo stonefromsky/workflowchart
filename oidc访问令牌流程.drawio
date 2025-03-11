@@ -10,11 +10,22 @@
         <mxCell id="QluS-aAjsIgC2w83DEUZ-7" value="SSO Server" style="swimlane;startSize=20;" parent="QluS-aAjsIgC2w83DEUZ-6" vertex="1">
           <mxGeometry x="20" width="200" height="850" as="geometry" />
         </mxCell>
-        <mxCell id="QluS-aAjsIgC2w83DEUZ-13" value="登录页" style="rounded=0;whiteSpace=wrap;html=1;" parent="QluS-aAjsIgC2w83DEUZ-7" vertex="1">
-          <mxGeometry x="20" y="240" width="80" height="60" as="geometry" />
+        <mxCell id="nYzu0JgBFqqFMGA5fvKE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="QluS-aAjsIgC2w83DEUZ-7" source="QluS-aAjsIgC2w83DEUZ-13" target="nYzu0JgBFqqFMGA5fvKE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nYzu0JgBFqqFMGA5fvKE-7" value="跳过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nYzu0JgBFqqFMGA5fvKE-6">
+          <mxGeometry x="-0.1778" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QluS-aAjsIgC2w83DEUZ-13" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="QluS-aAjsIgC2w83DEUZ-7" vertex="1">
+          <mxGeometry x="60" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nYzu0JgBFqqFMGA5fvKE-5" value="写入用户信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QluS-aAjsIgC2w83DEUZ-7">
+          <mxGeometry x="60" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QluS-aAjsIgC2w83DEUZ-19" value="store" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="QluS-aAjsIgC2w83DEUZ-7" vertex="1">
-          <mxGeometry x="50" y="280" width="60" height="50" as="geometry" />
+          <mxGeometry x="31" y="280" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QluS-aAjsIgC2w83DEUZ-8" value="MCP" style="swimlane;startSize=20;" parent="QluS-aAjsIgC2w83DEUZ-6" vertex="1">
           <mxGeometry x="220" width="300" height="850" as="geometry" />
@@ -123,12 +134,12 @@
         <mxCell id="QluS-aAjsIgC2w83DEUZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="QluS-aAjsIgC2w83DEUZ-6" source="QluS-aAjsIgC2w83DEUZ-10" target="QluS-aAjsIgC2w83DEUZ-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QluS-aAjsIgC2w83DEUZ-16" value="跳过授权" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QluS-aAjsIgC2w83DEUZ-15" vertex="1" connectable="0">
+        <mxCell id="QluS-aAjsIgC2w83DEUZ-16" value="跳转" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QluS-aAjsIgC2w83DEUZ-15" vertex="1" connectable="0">
           <mxGeometry x="-0.2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QluS-aAjsIgC2w83DEUZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="QluS-aAjsIgC2w83DEUZ-6" source="QluS-aAjsIgC2w83DEUZ-13" target="QluS-aAjsIgC2w83DEUZ-12" edge="1">
+        <mxCell id="QluS-aAjsIgC2w83DEUZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="QluS-aAjsIgC2w83DEUZ-6" source="nYzu0JgBFqqFMGA5fvKE-5" target="QluS-aAjsIgC2w83DEUZ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QluS-aAjsIgC2w83DEUZ-18" value="跳转" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QluS-aAjsIgC2w83DEUZ-17" vertex="1" connectable="0">
