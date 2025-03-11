@@ -117,7 +117,7 @@
         <mxCell id="QluS-aAjsIgC2w83DEUZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="QluS-aAjsIgC2w83DEUZ-6" source="QluS-aAjsIgC2w83DEUZ-10" target="QluS-aAjsIgC2w83DEUZ-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QluS-aAjsIgC2w83DEUZ-16" value="静默登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QluS-aAjsIgC2w83DEUZ-15" vertex="1" connectable="0">
+        <mxCell id="QluS-aAjsIgC2w83DEUZ-16" value="跳过授权" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QluS-aAjsIgC2w83DEUZ-15" vertex="1" connectable="0">
           <mxGeometry x="-0.2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
