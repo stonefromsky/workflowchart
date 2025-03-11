@@ -110,7 +110,7 @@
         <mxCell id="nYzu0JgBFqqFMGA5fvKE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="QluS-aAjsIgC2w83DEUZ-8" source="KIUjc3lk86y1q8A7Fn4e-2" target="nYzu0JgBFqqFMGA5fvKE-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KIUjc3lk86y1q8A7Fn4e-2" value="Token失效监听" style="rounded=0;whiteSpace=wrap;html=1;" parent="QluS-aAjsIgC2w83DEUZ-8" vertex="1">
+        <mxCell id="KIUjc3lk86y1q8A7Fn4e-2" value="Token失效监听" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="QluS-aAjsIgC2w83DEUZ-8" vertex="1">
           <mxGeometry x="111" y="710" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nYzu0JgBFqqFMGA5fvKE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="QluS-aAjsIgC2w83DEUZ-8" source="nYzu0JgBFqqFMGA5fvKE-3" target="QluS-aAjsIgC2w83DEUZ-30">
@@ -128,10 +128,10 @@
         <mxCell id="nYzu0JgBFqqFMGA5fvKE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QluS-aAjsIgC2w83DEUZ-8" source="nYzu0JgBFqqFMGA5fvKE-17" target="nYzu0JgBFqqFMGA5fvKE-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nYzu0JgBFqqFMGA5fvKE-17" value="Token刷新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QluS-aAjsIgC2w83DEUZ-8">
+        <mxCell id="nYzu0JgBFqqFMGA5fvKE-17" value="Token刷新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="QluS-aAjsIgC2w83DEUZ-8">
           <mxGeometry x="111" y="780" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nYzu0JgBFqqFMGA5fvKE-19" value="写入token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QluS-aAjsIgC2w83DEUZ-8">
+        <mxCell id="nYzu0JgBFqqFMGA5fvKE-19" value="写入token" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="QluS-aAjsIgC2w83DEUZ-8">
           <mxGeometry x="111" y="850" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nYzu0JgBFqqFMGA5fvKE-20" value="cookie" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="QluS-aAjsIgC2w83DEUZ-8">
