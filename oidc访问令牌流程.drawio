@@ -38,6 +38,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="phz_HXH5ODK1cXeIsucl-8" value="强制登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="phz_HXH5ODK1cXeIsucl-7">
+          <mxGeometry x="-0.1391" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rp30ESvSIAJqpPpiR4pG-34" value="connetc/token" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="QluS-aAjsIgC2w83DEUZ-7" vertex="1">
           <mxGeometry x="30" y="510" width="140" height="40" as="geometry" />
         </mxCell>
@@ -88,13 +93,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rp30ESvSIAJqpPpiR4pG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="QluS-aAjsIgC2w83DEUZ-6" source="rp30ESvSIAJqpPpiR4pG-20" target="rp30ESvSIAJqpPpiR4pG-34" edge="1">
+        <mxCell id="rp30ESvSIAJqpPpiR4pG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="QluS-aAjsIgC2w83DEUZ-6" source="rp30ESvSIAJqpPpiR4pG-20" target="rp30ESvSIAJqpPpiR4pG-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="514" y="490" />
               <mxPoint x="210" y="490" />
-              <mxPoint x="210" y="600" />
-              <mxPoint x="120" y="600" />
+              <mxPoint x="210" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -214,14 +218,6 @@
         </mxCell>
         <mxCell id="rp30ESvSIAJqpPpiR4pG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="QluS-aAjsIgC2w83DEUZ-8" source="QluS-aAjsIgC2w83DEUZ-24" target="rp30ESvSIAJqpPpiR4pG-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rp30ESvSIAJqpPpiR4pG-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.503;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="QluS-aAjsIgC2w83DEUZ-8" source="rp30ESvSIAJqpPpiR4pG-19" target="QluS-aAjsIgC2w83DEUZ-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rp30ESvSIAJqpPpiR4pG-48" value="Token强制更新错误" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rp30ESvSIAJqpPpiR4pG-47" vertex="1" connectable="0">
-          <mxGeometry x="0.3459" y="-2" relative="1" as="geometry">
-            <mxPoint x="-2" y="21" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="rp30ESvSIAJqpPpiR4pG-52" value="Token异常&lt;div&gt;消息监听&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="QluS-aAjsIgC2w83DEUZ-8" vertex="1">
           <mxGeometry x="240.01" y="678" width="90" height="40" as="geometry" />
