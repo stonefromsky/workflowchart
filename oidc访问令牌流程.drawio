@@ -27,6 +27,14 @@
         <mxCell id="QluS-aAjsIgC2w83DEUZ-19" value="store" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="QluS-aAjsIgC2w83DEUZ-7" vertex="1">
           <mxGeometry x="31" y="280" width="60" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="phz_HXH5ODK1cXeIsucl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="QluS-aAjsIgC2w83DEUZ-7" source="rp30ESvSIAJqpPpiR4pG-10" target="QluS-aAjsIgC2w83DEUZ-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="440" />
+              <mxPoint x="10" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rp30ESvSIAJqpPpiR4pG-10" value="connetc/refreshtoken" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="QluS-aAjsIgC2w83DEUZ-7" vertex="1">
           <mxGeometry x="30" y="420" width="140" height="40" as="geometry" />
         </mxCell>
@@ -38,7 +46,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="phz_HXH5ODK1cXeIsucl-8" value="强制登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="phz_HXH5ODK1cXeIsucl-7">
+        <mxCell id="phz_HXH5ODK1cXeIsucl-8" value="依赖Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="phz_HXH5ODK1cXeIsucl-7">
           <mxGeometry x="-0.1391" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -65,7 +73,7 @@
         <mxCell id="rp30ESvSIAJqpPpiR4pG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="QluS-aAjsIgC2w83DEUZ-6" source="rp30ESvSIAJqpPpiR4pG-10" target="QluS-aAjsIgC2w83DEUZ-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rp30ESvSIAJqpPpiR4pG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="QluS-aAjsIgC2w83DEUZ-6" source="rp30ESvSIAJqpPpiR4pG-5" target="rp30ESvSIAJqpPpiR4pG-10" edge="1">
+        <mxCell id="rp30ESvSIAJqpPpiR4pG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="QluS-aAjsIgC2w83DEUZ-6" source="rp30ESvSIAJqpPpiR4pG-2" target="rp30ESvSIAJqpPpiR4pG-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rp30ESvSIAJqpPpiR4pG-23" value="刷新Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rp30ESvSIAJqpPpiR4pG-22" vertex="1" connectable="0">
